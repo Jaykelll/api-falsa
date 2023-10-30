@@ -1,0 +1,157 @@
+{
+  "Productos": [
+    {
+      "id": 3,
+      "categoria": "alpinito",
+      "region": "4, Andina",
+      "nombre": "Alpinito de fresa",
+      "presio": 3000,
+      "fvencimiento": "1982-06-25",
+      "stack": 11
+    },
+    {
+      "id": 1,
+      "categoria": "bombombun",
+      "region": "1, Caribe",
+      "nombre": "bombon bun de mango",
+      "presio": 300,
+      "fvencimiento": "1982-06-21",
+      "stack": 10
+    },
+    {
+      "id": 1,
+      "categoria": "bombombun",
+      "region": "1, Caribe",
+      "nombre": "bombon bun de fresa",
+      "presio": 300,
+      "fvencimiento": "1992-06-26",
+      "stack": 10
+    },
+    {
+      "id": 3,
+      "categoria": "alpinito",
+      "region": "4, Andina",
+      "nombre": "Alpinito de chocolate",
+      "presio": 3000,
+      "fvencimiento": "1982-08-25",
+      "stack": 15
+    }
+  ],
+  "Dulces": [
+    {
+      "id": 101,
+      "nombredul": "Alpinito",
+      "presio": 3000,
+      "region": "4, Andina",
+      "caracteristicas": "Dos cajas grandes llena de la mercancia",
+      "fvencimiento": "14/12/23"
+    },
+    {
+      "id": 102,
+      "nombredul": "Cocada",
+      "presio": 2500,
+      "region": "1, Caribe",
+      "caracteristicas": "Tres cajas grandes llena de la mercancia",
+      "fvencimiento": "15/10/23"
+    },
+    {
+      "id": 103,
+      "nombredul": "Bombonbun",
+      "presio": 300,
+      "region": "2, Insular",
+      "caracteristicas": "Siete cajas grandes llena de la mercancia",
+      "fvencimiento": "16/09/23"
+    },
+    {
+      "id": 104,
+      "nombredul": "Chicle",
+      "presio": 250,
+      "region": "3, Pacifica",
+      "caracteristicas": "25 cajas grandes llena de la mercancia",
+      "fvencimiento": "02/08/24"
+    },
+    {
+      "id": 105,
+      "nombredul": "Mani",
+      "presio": 1000,
+      "region": "5, Orinoquia",
+      "caracteristicas": "16 cajas grandes llena de la mercancia",
+      "fvencimiento": "03/09/25"
+    },
+    {
+      "id": 106,
+      "nombredul": "Sexo",
+      "presio": 10000000000000000,
+      "region": "6, Amazonia",
+      "caracteristicas": "777777777 cajas grandes llena de la mercancia",
+      "fvencimiento": "03/09/200000000000000000"
+    }
+  ],
+  "compras": [
+    {
+      "id": 14,
+      "fechapedido": "2022-07-07",
+      "fechaentrega": "2022-08-22",
+      "producto": "arequipe",
+      "cantiad": 5,
+      "valor": 6250
+    },
+    {
+      "id": 15,
+      "fechapedido": "2022-08-07",
+      "fechaentrega": "2025-09-23",
+      "producto": "chocolate",
+      "cantiad": 7,
+      "valor": 60000
+    },
+    {
+      "id": 16,
+      "fechapedido": "2052-07-09",
+      "fechaentrega": "2056-09-23",
+      "producto": "arequipe",
+      "cantiad": 8,
+      "valor": 6900
+    }
+  ],
+  "usuario": [
+    {
+      "id": 117546,
+      "nombre": "martin",
+      "apellido": "sananbria",
+      "edad": 18,
+      "fnacimiento": "28/07/2005",
+      "estado_cliente": "feliz",
+      "compra": "chocolate",
+      "valor_compra": 100000
+    }
+  ],
+  "empleado": [
+    {
+      "id": 117546,
+      "nombre": "martin",
+      "apellido": "sananbria",
+      "edad": 18,
+      "fnacimiento": "28/07/2005",
+      "estado_cliente": "feliz",
+      "empresa":"alpina"
+    },
+    {
+        "id": 117676,
+        "nombre": "andres",
+        "apellido": "sananbria",
+        "edad": 18,
+        "fnacimiento": "28/07/2005",
+        "estado_cliente": "trabajando",
+        "empresa":"colombina"
+      },
+      {
+        "id": 117546,
+        "nombre": "jaykel",
+        "apellido": "sananbria",
+        "edad": 17,
+        "fnacimiento": "28/07/2006",
+        "estado_cliente": "N/A",
+        "empresa":"postobon"
+      }
+  ]
+}
